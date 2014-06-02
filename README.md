@@ -4,7 +4,7 @@ Hapijs
 
 ## Description
 
-`fill in`
+Learn how to take your application to the next level.  With hapi.js training you will learn about the internals of hapi.js as well as how to use it to enable teams to build web applications and services.
 
 ## With this training, you will learn
 
@@ -13,7 +13,7 @@ Hapijs
 ## Trainers
 
 * [Ben Acker]()
-* [Wyatt Preul]()
+* [Wyatt Preul](http://jsgeek.com)
 * [Van Nguyen]()
 
 ## Preparations for this training
@@ -22,11 +22,12 @@ In order to prepare to this training you should/must do the following List of re
 
 ### TODO List
 
-`fill in`
+* Complete some of the [makemehapi](https://github.com/spumko/makemehapi) workshopper.
 
 ### Materials
 
-`fill in`
+* Laptop
+* hapi.js installed
 
 ## 27 Jun 14:30h Participants
 
