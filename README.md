@@ -41,7 +41,7 @@ In order to prepare to this training you should/must do the following List of re
 - John Brett - [johnbrett](https://github.com/johnbrett)
 - Marcelo Conceição - [marcelombc](https://github.com/marcelombc)
 - Marco Oliveira - [marcooliveira](https://github.com/marcooliveira)
-- Miguel Pereira
+- Miguel Pereira - [miguelampereira](https://github.com/miguelampereira)
 - Paulo Vieira - [paulovieira](https://github.com/paulovieira)
 - Ricardo Melo - [rjsmelo](https://github.com/rjsmelo)
 - Zoltan Feher - [zkiiito](https://github.com/zkiiito)
