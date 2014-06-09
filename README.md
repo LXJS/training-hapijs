@@ -8,7 +8,7 @@ Learn how to take your application to the next level.  With hapi.js training you
 
 ## With this training, you will learn
 
-`fill in`
+Currently we're looking at creating a micro-services installation using Hapi, including deployment, testing, and plugin development for distributed development.
 
 ## Trainers
 
