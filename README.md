@@ -8,7 +8,7 @@ Learn how to take your application to the next level.  With hapi.js training you
 
 ## With this training, you will learn
 
-Currently we're looking at creating a micro-services installation using Hapi, including deployment, testing, and plugin development for distributed development.
+How to create a micro-services tier using [Hapi.js](http://hapijs.com/) including distributed plugin development, testing hapi servers, builds, and deployment. Included will be the resources and knowledge to be able to help other groups do the same thing.
 
 ## Trainers
 
@@ -23,6 +23,16 @@ In order to prepare to this training you should/must do the following List of re
 ### TODO List
 
 * Complete some of the [makemehapi](https://github.com/spumko/makemehapi) workshopper.
+* Come up with an API that you would like to build, nothing too fancy, just a few endpoints that you would like to expose. It could be anything you like, here are some data source ideas:
+    * An API that exists but you'd like to make it better
+    * A combination of a few different publicly accessible APIs
+    * A site that has data in HTML but not no data API to serve the data
+
+Some places to find inspiration for data and APIs:
+* [Portugal's Open Data](http://www.dados.gov.pt/pt/inicio/inicio.aspx)
+* [EU Open Data](https://open-data.europa.eu/en/data/)
+* [Fire data from Portugal](http://www.incendios.pt/pt)
+* [Programmable Web](http://www.programmableweb.com/)
 
 ### Materials
 
