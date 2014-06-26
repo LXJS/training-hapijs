@@ -1,0 +1,8 @@
+{
+    "name": "training-hapijs",
+    "version": "0.0.1",
+    "dependencies": {
+        "hapi": "6.x.x",
+        "makemehapi": "0.1.x"
+    }
+}
