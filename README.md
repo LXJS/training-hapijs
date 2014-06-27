@@ -54,6 +54,7 @@ Some places to find inspiration for data and APIs:
 - Karolis Narkevicius - [KidkArolis](https://github.com/KidkArolis)
 - Dominykas Blyžė - [dymonaz](https://github.com/dymonaz)
 - Marco Oliveira - [marcooliveira](https://github.com/marcooliveira)
+- Diogo Santos - [diogodssantos](https://github.com/diogodssantos)
 - Ricardo Melo - [rjsmelo](https://github.com/rjsmelo)
 - Miguel Pereira - [miguelampereira](https://github.com/miguelampereira)
 - Zoltan Feher - [zkiiito](https://github.com/zkiiito)
@@ -70,6 +71,7 @@ Some places to find inspiration for data and APIs:
 - Patrick Marques - [pmarques](https://github.com/pmarques)
 - Gergely Nemeth - [gergelyke](https://github.com/gergelyke)
 - Ana Castanho - [anarcastanho](https://github.com/anarcastanho)
+- Joel Matias - [JoelBMatias](https://github.com/JoelBMatias)
 
 ## 27 jun - 14:30h Participants
 
@@ -92,6 +94,7 @@ Some places to find inspiration for data and APIs:
 - João Ribeiro - [JoaoCasalNovo](https://github.com/JoaoCasalNovo)
 - Rui Carneiro - [sgtcarneiro](https://github.com/sgtcarneiro)
 - Juliana Pereira - [jvpereira](https://github.com/jvpereira)
+- Peter Milan - [pity](https://github.com/pity)
 - Alex McFadyen - [a-c-m](https://github.com/a-c-m)
 - Mario Mendes - [MMendes999](https://github.com/MMendes999)
 - Bruno Assunção - [BrunoAssuncao](https://github.com/BrunoAssuncao)
@@ -102,3 +105,4 @@ Some places to find inspiration for data and APIs:
 - Yacine Rezgui - [yrezgui](https://github.com/yrezgui)
 - Pedro Nunes - [pmiguelrn](https://github.com/pmiguelrn)
 - Ricardo Batista - [nihildacta](https://github.com/nihildacta)
+- João Andrade - [thejoaosa](https://github.com/thejoaosa)
