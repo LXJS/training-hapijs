@@ -1,6 +1,8 @@
 Hapi.js
 =====================
 
+[![Join the chat at https://beta.gitter.im/LXJS/training-hapijs](https://badges-beta.gitter.im/Join%20Chat.svg)](https://beta.gitter.im/LXJS/training-hapijs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Description
 
